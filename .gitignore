@@ -17,7 +17,7 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
-packages/
+#packages/
 .vs/
 
 # Roslyn cache directories
